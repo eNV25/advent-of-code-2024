@@ -1,11 +1,9 @@
 package sliceutil
 
-import "cmp"
-
-func Count[T cmp.Ordered](s []T, t T) int {
+func Count[S ~[]E, E comparable](s S, e E) int {
 	var i int
 	for _, v := range s {
-		if v == t {
+		if v == e {
 			i++
 		}
 	}
