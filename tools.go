@@ -3,5 +3,5 @@
 package main
 
 import (
-	_ "golang.org/x/tools/cmd/gomvpkg"
+	_ "golang.org/x/exp/cmd/txtar"
 )
