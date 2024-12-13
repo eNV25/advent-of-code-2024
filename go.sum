@@ -1,3 +1,5 @@
+github.com/alex-ant/gomath v0.0.0-20160516115720-89013a210a82 h1:7dONQ3WNZ1zy960TmkxJPuwoolZwL7xKtpcM04MBnt4=
+github.com/alex-ant/gomath v0.0.0-20160516115720-89013a210a82/go.mod h1:nLnM0KdK1CmygvjpDUO6m1TjSsiQtL61juhNsvV/JVI=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/ugurcsen/gods-generic v0.10.4 h1:OomH3R2MdzZxpnEPijaD/ncLzV6rpDXd5ruEkWsw0vo=
